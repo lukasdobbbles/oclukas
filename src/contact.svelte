@@ -9,7 +9,7 @@
 
         <p>
             <i class="fas fa-envelope-square"></i>
-            hello@oclukas.com
+            lukasdobbles@gmail.com
         </p>
     </div>
 </div>
