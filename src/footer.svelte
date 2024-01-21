@@ -4,7 +4,7 @@
             <i class="fab fa-github"></i>
         </a>
 
-        <a href="https://discord.bio/p/devposeidon" target="_blank">
+        <a href="https://dsc.bio/devposeidon" target="_blank">
             <i class="fab fa-discord"></i>
         </a>
 
